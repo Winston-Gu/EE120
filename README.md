@@ -1,1 +1,1 @@
-# EE120
+# My assignments for EE120: Signals and Systems
